@@ -13,8 +13,8 @@
 * Termux:
   * `pkg update`.
   * `pkg install python3 python3-pip git -y`.
-  * `git clone https://github.com/damiolka/ImpulseBomber`.
-  * `cd Impulse/`.
+  * `git clone https://github.com/nkolotovkinOfficial/NikrexV2/`.
+  * `cd Nikrexv2/`.
   * `pip3 install -r requirements.txt`.
   * `python3 Nikrexv2.py --help`.
 
